@@ -33,10 +33,11 @@ Follow these steps to set up the project environment and run the code.
 
 Start by cloning this repository to your local machine:
 
-```bash
+
 git clone [https://github.com/Sri-Naimisha/Player-Tracking-ReID](https://github.com/Sri-Naimisha/Player-Tracking-ReID)
+
 cd Player-Tracking-ReID
-````
+
 
 ### 2\. Create and Activate a Virtual Environment (Recommended)
 
@@ -72,12 +73,14 @@ The project requires the pre-trained YOLOv11 model and an input video. These lar
 
   * **YOLOv11 Model (`best.pt`):**
     Download the model file from this link:
+    
     [https://drive.google.com/file/d/1-5fOSHOSB9UXyP\_enOoZNAMScrePVcMD/view](https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view)
     
     **Place the downloaded `best.pt` file in the root directory of this project.**
 
   * **Input Video (`15sec_input_720p.mp4`):**
     Download the input video from this link:
+    
     [https://drive.google.com/file/d/1TDcND31fvEDvcnZCaianTxJrmT8q7iIi/view?usp=drive\_link](https://drive.google.com/file/d/1TDcND31fvEDvcnZCaianTxJrmT8q7iIi/view?usp=drive_link)
     
     **Place the downloaded `15sec_input_720p.mp4` file in the root directory of this project.**
